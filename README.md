@@ -1,6 +1,6 @@
 # TagEditor
 An editor for the tagui
-
+一个用来开发tagui脚本的编辑器。
 
 
 
