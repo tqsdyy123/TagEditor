@@ -1,18 +1,19 @@
 # TagEditor
 An editor for the tagui
 一个用来开发tagui脚本的编辑器。
-
+[点击下载]:https://github.com/tqsdyy123/TagEditor/tags
 
 
 
 ### 版本更新说明：🌱
-#### v 1.0.0
+#### v1.0.0
 1. 支持文件基本操作。
 2. 支持运行tagui命令
 3. 支持代码提示
 4. 支持代码高亮显示
 5. 支持自定义添加我的代码
 6. 支持我的代码拖拽排序
+7. 支持windows/linux
 
 
 #### 未来可能会支持的功能
